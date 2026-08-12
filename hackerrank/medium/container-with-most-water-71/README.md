@@ -50,7 +50,7 @@ Print the maximum amount of water that can be contained.
 **Language:** C++  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-12T11:54:25.014Z  
+**Submitted:** 2026-08-12T11:54:30.369Z  
 
 ```cpp
 #include <cmath>
