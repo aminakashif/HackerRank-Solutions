@@ -54,7 +54,7 @@ Print the maximum average rounded to exactly 6 decimal places.
 **Language:** C++  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-16T10:07:07.978Z  
+**Submitted:** 2026-08-16T10:07:08.571Z  
 
 ```cpp
 #include <iostream>
