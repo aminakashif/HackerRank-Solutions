@@ -47,7 +47,7 @@ YES
 **Language:** C++  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-16T10:04:38.642Z  
+**Submitted:** 2026-08-16T10:05:15.950Z  
 
 ```cpp
 #include <cmath>
