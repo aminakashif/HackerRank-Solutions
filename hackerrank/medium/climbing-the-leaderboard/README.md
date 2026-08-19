@@ -60,7 +60,7 @@ For $60\%$ of the maximum score:
 **Language:** C++  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-19T11:55:20.004Z  
+**Submitted:** 2026-08-19T11:55:42.304Z  
 
 ```cpp
 #include <bits/stdc++.h>
