@@ -54,7 +54,7 @@ Each trip is described as follows:
 **Language:** C++  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-24T08:41:15.555Z  
+**Submitted:** 2026-08-24T08:41:55.952Z  
 
 ```cpp
 #include <bits/stdc++.h>
